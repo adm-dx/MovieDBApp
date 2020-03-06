@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieDBApp</string>
+    <string name="connection_problem">Connection Problem!</string>
+    <string name="overview_text">overview .........</string>
+    <string name="overview_header">Overview</string>
+    <string name="sub_title">sub title</string>
+    <string name="movie_info">Movie Info</string>
+</resources>
