@@ -1,6 +1,6 @@
 # MovieDBApp
 
-Basic Movie Catalog application for Android, created with tutorial by https://www.youtube.com/channel/UCgm7yqTC6m7epclaFnRA3ew .
+Basic Popular Movie Catalog application for Android, created with tutorial by https://www.youtube.com/channel/UCgm7yqTC6m7epclaFnRA3ew .
 
 Using:
 - Kotlin
